@@ -1,7 +1,9 @@
 # Entornos virtuales
 venv/
 .env
-
+#alembic
+alembic.ini
+/alembic
 # Archivos de caché
 __pycache__/
 *.pyc
